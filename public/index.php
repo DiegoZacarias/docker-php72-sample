@@ -1,0 +1,3 @@
+<?php
+
+echo('YOUR APP IS RUNNING ON PORT 8000!');
